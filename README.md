@@ -19,7 +19,8 @@
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
         
-2.代码添加：
+2.代码添加:
+
     1)代码再 SwaggerConfig 中 
     2)SwaggerApplication 中添加注释EnableSwagger2
     
